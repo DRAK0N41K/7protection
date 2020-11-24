@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/dandr/CLionProjects/7protection/cmake-build-debug/CMakeFiles/7protection.dir/embed.manifest"
